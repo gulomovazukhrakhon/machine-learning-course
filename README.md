@@ -14,3 +14,5 @@
     The Mean Squared Error (MSE)
     A MSE Cost Function
     Gradient Descent with a MSE Cost Function
+    
+### Section 5 — Predict House Prices with Multivariable Linear Regression
