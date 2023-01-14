@@ -1,6 +1,6 @@
-# Machine Learning Course
+## Machine Learning Course
 
-## Section 4 — Introduction to Optimisation and the Gradient Descent Algorithm:
+### Section 4 — Introduction to Optimisation and the Gradient Descent Algorithm
     
     Cost Functions
     Creating Charts with Subplots
