@@ -32,3 +32,35 @@
 * Model Simplification & Bayesian Information Criterion
 * How to Analyze and Plot Regression Residuals
 * Build a Valuation Tool: Working with Pandas Series & Numpy ndarrays
+
+### Sections 6 — Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails: Part 1
+    
+* The Naive Bayes Algorithm and the Decision Boundary for a Classifier
+* Basic Probability
+* Joint & Conditional Probability
+* Bayes Theorem
+* Introduction to Natural Language Processing (NLP)
+* Tokenizing, Removing Stop Words and the Python Set Data Structure
+* Word Stemming & Removing Punctuation
+* Removing HTML tags with BeautifulSoup
+* Advanced Subsetting on DataFrames: the apply() Function
+* Logical Operators to Create Subsets and Indices
+* Word Cloud with Python
+* Sparse Matrix (Part 1): Split the Training and Testing Data
+* Sparse Matrix (Part 2): Data Munging with Nested Loops
+* Sparse Matrix (Part 3): Using groupby() and Saving .txt Files
+
+### Sections 7 — Train a Naive Bayes Classifier to Create a Spam Filter: Part 2
+    
+* Create a Full Matrix
+* Count the Tokens to Train the Naive Bayes Model
+
+### Sections 8 — Test and Evaluate a Naive Bayes Classifier: Part 3
+    
+* Joint Conditional Probability (Part 1): Dot Product
+* Joint Conditional Probability (Part 2): Priors
+* Making Predictions: Comparing Joint Probabilities
+* The Accuracy Metric
+* False Positive vs False Negatives
+* The Recall Metric, Precision Metric, F-score or F1 Metric
+* A Naive Bayes Implementation using SciKit Learn
